@@ -1,0 +1,114 @@
+/* Data Table*/
+.dataTable {
+	width: 100%;
+}
+.tr2 {
+	border-bottom: 1px solid #aaa;
+	border-top: 1px solid #aaa;
+}
+.tablerow td, .tablerow th{
+	padding: 10px;
+	text-align: left;
+}
+/* Stats*/
+#statsTable {
+	border-top: 1px solid #aaa;
+	border-bottom: 1px solid #aaa;
+}
+
+.greySmall {
+	color: #aaa;
+	font-size: 12px;
+	padding: 0px 20px 20px 20px;
+	text-align: center;
+}
+.boldBlack {
+	font-size: 32px;
+	font-weight: bold;
+	padding: 20px 20px 0px 20px;
+	text-align: center;	
+}
+/* Bar Chart*/
+.barColor {
+	color: #fff;
+	background-color: #599EDE;
+	text-align: left;
+	padding: 3px;
+	font-size: 90%;
+	border-bottom-right-radius: 3px;
+	  -webkit-border-bottom-right-radius: 3px; 
+	  -moz-border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+	  -webkit-border-top-right-radius: 3px; 
+	  -moz-border-top-right-radius: 3px; 
+}
+
+.thCode {
+	width: 15%;
+	text-align: right;
+	padding-right: 10px;
+}
+#barChart {
+	width: 100%;
+}	
+/* Lightbox*/
+
+/*#greyScreen {
+	background-color: #aaa;
+	padding: 5px;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+#whiteScreen {
+	margin: 10px;
+	padding: 20px;
+	background-color: #FFF;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	overflow: hidden;
+	width: 36%;
+	margin: 20% auto;
+}
+
+.btn-border {
+	background-color: #aaa;
+	padding: 10px 40px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	float: right;
+}
+
+.btn-close {
+	color: #fff;
+}*/
+
+/*Media Block*/
+
+.mediablock1 {
+	float: right;
+	width: 92%;
+}
+ .mediablockimage {
+ 	float: left;
+ 	clear: both;
+ }
+
+.mediablock2 {
+	float: right;
+	width: 94%;
+}
+
+
+
+
+
+
+
+
+
